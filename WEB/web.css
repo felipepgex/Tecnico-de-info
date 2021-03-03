@@ -27,3 +27,27 @@ div {
     margin: 20px auto;
     border-radius: 20px;
 }
+
+#redondo {
+    width: 50%px;
+    height: 1000px;
+    background-color: white;
+    margin: 20px auto;
+    border-radius: 20px;
+}
+
+#redondo>h1{
+    text-align: center;
+    color: rgb(0, 0, 0);
+    text-shadow: 0px 0px;
+}
+
+h3, h4, h5, h6{
+    text-align: center;
+}
+
+a{
+    color: rgb(172, 20, 20);
+    font-size: 20px;
+    text-align: center;
+}
