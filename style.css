@@ -4,8 +4,8 @@ body {
 
 h1 {
     text-align: center;
-    color: white;
-    text-shadow: 1px 1px black;
+    color: aqua;
+    text-shadow: 1px 1px aqua;
 }
 
 h2,
@@ -17,13 +17,13 @@ p {
 
 a {
     text-decoration: none;
-    color: black;
+    color: rgb(0, 0, 0);
 }
 
 div {
     width: 250px;
     height: 120px;
-    background-color: rgb(255, 0, 0);
+    background-color: rgb(255, 253, 254);
     margin: 20px auto;
     border-radius: 20px;
 }
